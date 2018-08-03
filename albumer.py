@@ -2,6 +2,9 @@
 """
 Albumer - link or copy your best Pictures to an album folder.
 
+<source> is where you have all your pictures
+<target> is where you want to have only the best pictures.
+
 Usage:
   albumer.py [--copy | --link | --dry] [--rating=<x>] (--verbose | -v) <source> <target>
   albumer.py (-h | --help)
